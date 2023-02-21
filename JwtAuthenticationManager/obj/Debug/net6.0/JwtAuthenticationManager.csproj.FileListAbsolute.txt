@@ -1,0 +1,12 @@
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+F:\Priash\Project\Git Pet Project\ChatApp\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
