@@ -9,6 +9,7 @@ import { RippleModule } from 'primeng/ripple';
 import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
 import { LoginComponent } from '../feature/auth/login/login.component';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,9 @@ import { LoginComponent } from '../feature/auth/login/login.component';
     AppMainModule,
     FormsModule,
     ReactiveFormsModule,
-    RippleModule, HttpClientModule,
+    RippleModule,
+    HttpClientModule,
+    RouterModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
