@@ -15,14 +15,16 @@ import { RadioButtonModule } from 'primeng/radiobutton';
 import { ConfirmDialogModule } from 'primeng/confirmdialog';
 import { DialogModule } from 'primeng/dialog';
 import { HttpClientModule } from '@angular/common/http';
+import { UserInfoComponent } from '../feature/userinfo/user-info.component';
 
 
 @NgModule({
   declarations: [
+    AppMainComponent,
     AppFooterComponent,
     AppSidebarComponent,
-    AppTopbarComponent,
-    AppMainComponent
+    AppTopbarComponent,    
+    UserInfoComponent
   ],
   imports: [
     BrowserModule,

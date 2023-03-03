@@ -17,15 +17,15 @@ import { RouterModule } from '@angular/router';
     LoginComponent
   ],
   imports: [
-    BrowserModule,
+    //BrowserModule,
     AppRoutingModule,
-    ToastModule,
+    //ToastModule,
     AppMainModule,
-    FormsModule,
-    ReactiveFormsModule,
-    RippleModule,
+    //FormsModule,
+    //ReactiveFormsModule,
+    //RippleModule,
     HttpClientModule,
-    RouterModule,
+    //RouterModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

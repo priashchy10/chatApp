@@ -9,5 +9,6 @@ export class AppMainComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    alert('adasd')
   }
 }
